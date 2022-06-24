@@ -1,5 +1,5 @@
 # Satirical news bot (GPT model)
-Telegram bot that generates satirical news (model - sberbank-ai/rugpt3medium_based_on_gpt).
+Telegram bot that generates satirical news (model - GPT).
 Model is trained on panorama satirical news site
 
 ## Model fine tunning
